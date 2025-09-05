@@ -32,9 +32,7 @@ const About = () => {
           If you're looking to invest in real estate or need expert guidance, we invite you to join our ever-growing community of satisfied clients.</p>
         </div>
       </div>
-      <footer>
-    <p>&copy; 2025 Real-Esate Promo Website | Estate sourced from public domain or used under license.</p>
-    </footer>
+      
     </div>
     
     
