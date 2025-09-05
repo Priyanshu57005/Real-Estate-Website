@@ -25,7 +25,15 @@ const Contact = () => {
                     Send Message
                 </button>
             </form>
-
+            <footer className="bg-gray-900 text-gray-400 py-6 mt-10">
+  <div className="container mx-auto px-6 md:px-20 lg:px-32 flex flex-col sm:flex-row justify-between items-center text-sm">
+    <p>© {new Date().getFullYear()} YourCompany. All rights reserved.</p>
+    <div className="flex gap-4 mt-4 sm:mt-0">
+      <a href="#Privacy" className="hover:text-white transition">Privacy Policy</a>
+      <a href="#Terms" className="hover:text-white transition">Terms of Service</a>
+    </div>
+  </div>
+</footer>
 
         </div>
     )
